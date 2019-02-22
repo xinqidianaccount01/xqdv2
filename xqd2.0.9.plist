@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://103.115.44.168:7777/ios/xqd2.0.9.ipa</string>
+					<string>http://103.115.44.168:7777/ios/xqd.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.lotus.xqd</string>
 				<key>bundle-version</key>
-				<string>2.0.9</string>
+				<string>2.1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
